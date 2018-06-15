@@ -4,6 +4,6 @@ users to view their cart. Ensure that items in the cart persist even after closi
 out a bill of items in the cart. Peform any neccessary validation.
 
 # Requirements
-->Python
-->Flask
-->Virtual Python environment builder
+->Python <br>
+->Flask <br>
+->Virtual Python environment builder <br>
